@@ -91,3 +91,57 @@ A user-friendly design is essential for a successful booking platform. It reduce
 ### Importance of Identifying Design Properties
 
 Identifying design properties such as colors, typography, and spacing is critical when translating a Figma mockup into a live application. These properties ensure **visual consistency**, reinforce **brand identity**, and contribute to **usability and accessibility**. By adhering to predefined styles, developers and designers maintain a shared understanding, reduce guesswork, and speed up implementation while ensuring a cohesive user experience across all screens and devices.
+
+
+## Project Roles and Responsibilities
+
+Clearly defining roles within the project helps ensure smooth collaboration, accountability, and efficient development. Below are the key roles and their responsibilities in this project:
+
+### 🧭 Project Manager
+- Oversees the entire project timeline and delivery
+- Coordinates between different team roles
+- Ensures deliverables are met on time and within scope
+- Communicates updates and blockers to stakeholders
+
+### 💻 Frontend Developers
+- Implement the user interface using React and modern CSS
+- Ensure mobile-first and responsive design
+- Integrate frontend components with backend APIs
+- Maintain clean, modular, and reusable codebase
+
+### 🛠️ Backend Developers
+- Design and implement RESTful APIs
+- Manage database models and queries
+- Implement business logic, authentication, and security
+- Ensure performance and scalability on the server side
+
+### 🎨 Designers
+- Create wireframes and high-fidelity mockups in Figma
+- Define color palettes, typography, and layout styles
+- Maintain consistency across all design components
+- Ensure the design aligns with UX best practices
+
+### 🧪 QA/Testers
+- Write unit, integration, and end-to-end test cases
+- Perform manual and automated testing
+- Identify and report bugs or inconsistencies
+- Validate new features against the design and requirements
+
+### ⚙️ DevOps Engineers
+- Set up and manage deployment environments
+- Implement CI/CD pipelines for seamless integration
+- Monitor performance and error logs
+- Ensure infrastructure security and scalability
+
+### 📌 Product Owner
+- Defines and prioritizes features based on user needs
+- Maintains the product backlog
+- Represents stakeholders and ensures business value
+- Validates features before release
+
+### 🌀 Scrum Master
+- Facilitates agile processes such as daily stand-ups and sprint planning
+- Removes blockers and shields the team from external distractions
+- Encourages continuous improvement through retrospectives
+- Ensures adherence to Scrum methodology
+
