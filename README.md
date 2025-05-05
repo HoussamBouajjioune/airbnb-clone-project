@@ -68,3 +68,26 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 A user-friendly design is essential for a successful booking platform. It reduces friction throughout the user journey, enhances user satisfaction, and boosts conversion rates. Clear navigation, fast-loading components, and intuitive interactions make it easier for users to find and book properties. A clean and responsive interface encourages trust and keeps users engaged, especially on mobile devices where most users browse and book accommodations.
 
+### Color Styles
+
+- **Primary Color**: `#FF5A5F` – used for buttons, highlights, and accents
+- **Secondary Color**: `#008489` – used for secondary actions and UI elements
+- **Background Color**: `#FFFFFF` – general background across the app
+- **Text Color**: `#222222` – primary text color for readability
+- **Secondary Text Color**: `#717171` – for less prominent information or labels
+
+### Typography
+
+- **Primary Font Family**: Circular
+- **Font Weights**:
+  - Book (400) – for secondary or supporting text
+  - Medium (500) – for body text
+  - Bold (700) – for headings and emphasis
+- **Font Sizes**:
+  - **Headings**: 24px to 32px
+  - **Body Text**: 16px
+  - **Secondary Text**: 14px
+
+### Importance of Identifying Design Properties
+
+Identifying design properties such as colors, typography, and spacing is critical when translating a Figma mockup into a live application. These properties ensure **visual consistency**, reinforce **brand identity**, and contribute to **usability and accessibility**. By adhering to predefined styles, developers and designers maintain a shared understanding, reduce guesswork, and speed up implementation while ensuring a cohesive user experience across all screens and devices.
