@@ -37,3 +37,34 @@ This project is a full-stack clone of the popular accommodation booking platform
    ```bash
    git clone https://github.com/HoussamBouajjioune/airbnb-clone-project.git
 
+
+## UI/UX Design Planning
+
+### Design Goals
+
+- Create an intuitive and seamless booking flow
+- Maintain consistent visual language and layout across the app
+- Ensure fast loading times for all components
+- Prioritize mobile responsiveness using a mobile-first approach
+- Provide accessible and inclusive design following WCAG guidelines
+
+### Key Features
+
+- Property search with real-time filtering
+- Interactive and detailed property views
+- Secure and simplified checkout process
+- User authentication and profile management
+- Favorites functionality for bookmarked listings
+
+### Primary Pages
+
+| Page Name              | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| Property Listing View  | Grid display of available properties with filters (price, location, rating) |
+| Listing Detailed View  | Full details of selected property, including images, host info, and reviews |
+| Simple Checkout View   | Streamlined booking and payment confirmation page                           |
+
+### Importance of User-Friendly Design
+
+A user-friendly design is essential for a successful booking platform. It reduces friction throughout the user journey, enhances user satisfaction, and boosts conversion rates. Clear navigation, fast-loading components, and intuitive interactions make it easier for users to find and book properties. A clean and responsive interface encourages trust and keeps users engaged, especially on mobile devices where most users browse and book accommodations.
+
