@@ -145,3 +145,34 @@ Clearly defining roles within the project helps ensure smooth collaboration, acc
 - Encourages continuous improvement through retrospectives
 - Ensures adherence to Scrum methodology
 
+
+## UI Component Patterns
+
+In this section, we describe the key UI components that will be implemented in the AirBnB clone project. These components are designed to be reusable, ensuring consistency across the application and a smooth user experience.
+
+### Navbar
+- **Description**: The navigation bar will be the header of the application, providing quick access to key pages like the homepage, property listings, login/signup, and user profile.
+- **Key Features**:
+  - Logo on the left side
+  - Search bar for property filtering
+  - User navigation (login, account, logout)
+  - Responsive menu for mobile view
+  - Links to important pages (e.g., About, Contact, Help)
+
+### Property Card
+- **Description**: The property card is used to display individual properties in the property listing view. Each card will show essential information like the property's image, price, location, and ratings.
+- **Key Features**:
+  - Property image
+  - Basic details such as price, location, and rating
+  - Favorite button for users to mark their preferred properties
+  - A responsive layout to adjust for various screen sizes
+
+### Footer
+- **Description**: The footer will be placed at the bottom of each page and will contain important links and information about the company, legal details, and social media.
+- **Key Features**:
+  - Links to pages like "Terms of Service," "Privacy Policy," and "About Us"
+  - Contact information and social media links
+  - Copyright information and company details
+
+These components will be designed to be flexible and modular, ensuring they can be easily reused throughout the application and customized as needed.
+
