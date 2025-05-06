@@ -46,3 +46,26 @@ This project is a full-stack clone of the popular accommodation booking platform
 ### Importance of a User-Friendly Design
 
 A well-designed booking system improves user experience by reducing friction during the user journey. Clear navigation, intuitive layouts, and responsive design lead to higher conversion rates and greater customer satisfaction. In a platform like this, where trust and usability are crucial, good design directly impacts business success.
+
+
+### Design Properties from Figma
+
+#### 🎨 Color Styles
+
+- **Primary**: `#FF5A5F` – Utilisé pour les éléments principaux comme les boutons et les liens.
+- **Secondary**: `#008489` – Utilisé pour les accents et les éléments secondaires.
+- **Background**: `#FFFFFF` – Fond principal de l'application.
+- **Text**: `#222222` – Texte principal.
+- **Secondary Text**: `#717171` – Texte secondaire ou désactivé.
+
+#### 🅰️ Typography
+
+- **Font Family**: Circular
+- **Headings**: Bold (700), 24px–32px
+- **Body Text**: Medium (500), 16px
+- **Secondary Text**: Book (400), 14px
+
+### 🔍 Importance of Identifying Design Properties
+
+Comprendre les propriétés de design, telles que les couleurs et la typographie, est essentiel pour garantir la cohérence visuelle et l'identité de la marque. Ces éléments facilitent la collaboration entre les concepteurs et les développeurs, assurent une hiérarchie visuelle claire et améliorent l'expérience utilisateur globale. De plus, une identification précise permet une implémentation efficace dans le code, réduisant ainsi les erreurs et les incohérences.
+
