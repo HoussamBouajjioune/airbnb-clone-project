@@ -127,3 +127,33 @@ Comprendre les propriétés de design, telles que les couleurs et la typographie
   - Tracks progress and assists with resource allocation.
 - **Contribution**: Ensures the team follows agile practices, helping to improve productivity and remove obstacles for the team.
 
+## UI Component Patterns
+
+### Navbar
+- **Description**: The navigation bar will provide links to different pages of the application such as the homepage, property listings, user account, and login/signup.
+- **Features**:
+  - Logo linking to the homepage.
+  - Search bar for property search functionality.
+  - User navigation for login and account settings.
+  - Responsive menu for mobile views.
+  - A "Favorites" button for logged-in users to quickly access saved properties.
+
+### Property Card
+- **Description**: A reusable component to display a preview of each property in the listing view.
+- **Features**:
+  - Property image.
+  - Basic details: price, location, rating.
+  - Favorite button to mark the property as a favorite.
+  - Responsive design for different screen sizes.
+  - Hover effects to show more information (e.g., availability, book now).
+
+### Footer
+- **Description**: The footer will be used at the bottom of each page to display links to important information such as privacy policy, terms of service, and social media accounts.
+- **Features**:
+  - Site links (about, help, terms).
+  - Social media icons linking to Facebook, Twitter, Instagram.
+  - Company information and copyright.
+  - A "Back to top" button for quick navigation to the top of the page.
+
+### Reusability and Consistency
+Each of these components will be designed for reusability, ensuring that they can be easily incorporated into multiple pages throughout the application. They will also follow consistent design principles to maintain visual coherence and ensure a smooth user experience across the entire app.
