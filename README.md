@@ -69,3 +69,61 @@ A well-designed booking system improves user experience by reducing friction dur
 
 Comprendre les propriétés de design, telles que les couleurs et la typographie, est essentiel pour garantir la cohérence visuelle et l'identité de la marque. Ces éléments facilitent la collaboration entre les concepteurs et les développeurs, assurent une hiérarchie visuelle claire et améliorent l'expérience utilisateur globale. De plus, une identification précise permet une implémentation efficace dans le code, réduisant ainsi les erreurs et les incohérences.
 
+## Project Roles and Responsibilities
+
+### Project Manager
+- **Responsibilities**:
+  - Oversees the project timeline and ensures that all tasks are completed on schedule.
+  - Coordinates communication between team members and stakeholders.
+  - Manages deliverables and adjusts project scope as needed.
+- **Contribution**: Ensures that the project runs smoothly, stays on track, and meets deadlines, facilitating collaboration and removing blockers.
+
+### Frontend Developers
+- **Responsibilities**:
+  - Implements UI components and ensures responsive design across all devices.
+  - Works with designers to translate Figma designs into code using React or similar frameworks.
+  - Ensures the front-end communicates efficiently with the backend.
+- **Contribution**: Creates the user-facing components and makes the application visually appealing and easy to navigate.
+
+### Backend Developers
+- **Responsibilities**:
+  - Designs and builds APIs to support the functionality of the application.
+  - Handles database management and ensures efficient data storage and retrieval.
+  - Implements business logic and server-side functionalities.
+- **Contribution**: Provides the functionality and backend infrastructure necessary to support the front-end and user interactions.
+
+### Designers
+- **Responsibilities**:
+  - Creates wireframes, mockups, and final UI designs using Figma.
+  - Maintains design consistency across all pages and components.
+  - Ensures that the design aligns with user experience (UX) best practices.
+- **Contribution**: Defines the visual and interactive elements of the application, ensuring an intuitive and engaging user experience.
+
+### QA/Testers
+- **Responsibilities**:
+  - Writes test cases for functional, integration, and unit tests.
+  - Performs testing (manual and automated) to identify bugs and ensure the app works as expected.
+  - Reports bugs and assists developers in fixing issues.
+- **Contribution**: Ensures the quality of the product by testing its functionality and reporting any issues for resolution.
+
+### DevOps Engineers
+- **Responsibilities**:
+  - Manages deployment pipelines, including Continuous Integration (CI) and Continuous Delivery (CD).
+  - Oversees server infrastructure and ensures the application is hosted and maintained properly.
+  - Implements monitoring and troubleshooting systems for live applications.
+- **Contribution**: Ensures the application is deployed efficiently and is running on stable, secure infrastructure.
+
+### Product Owner
+- **Responsibilities**:
+  - Defines the product’s features and functionalities based on user needs and business requirements.
+  - Prioritizes features and works with the team to set achievable goals.
+  - Represents stakeholders and communicates business needs to the team.
+- **Contribution**: Guides the project vision and ensures the product delivers value to the users and stakeholders.
+
+### Scrum Master
+- **Responsibilities**:
+  - Facilitates agile ceremonies such as daily stand-ups, sprint planning, and retrospectives.
+  - Helps remove blockers and ensures the team adheres to agile principles.
+  - Tracks progress and assists with resource allocation.
+- **Contribution**: Ensures the team follows agile practices, helping to improve productivity and remove obstacles for the team.
+
